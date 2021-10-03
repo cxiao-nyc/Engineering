@@ -2,8 +2,6 @@
 
 Connie Xiao
 
----
-
 **Real-Time Global COVID-19 Dashboard** 
 
 ### Abstract
